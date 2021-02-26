@@ -15,7 +15,7 @@
 
   <meta name="description" content="Sunqueas Records Limited">
   <meta name="keywords" content="sunqueas, music, records, record label" />
-  <link rel="stylesheet" href="index.css" />
+  <link href="index.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
@@ -33,7 +33,7 @@
     <div class="header__text-box row">
       <div class="header__text">
         <img src="./images/slwt.png" style="width:400px;">
-        <p><!-- Australian-based record label --></p>
+        <br>
         <!-- <a href="#contact" class="btn btn--sunqueasblue">Get in touch</a> -->
       </div>
     </div>
@@ -60,22 +60,22 @@
 </body>
 
 <script type="text/javascript">
-(function() {
+  (function () {
     document.addEventListener("mousemove", parallax);
     const elem = document.querySelector("header");
     function parallax(e) {
-        let _w = window.innerWidth/2;
-        let _h = window.innerHeight/2;
-        let _mouseX = e.clientX;
-        let _mouseY = e.clientY;
-        let _depth1 = `${50 - (_mouseX - _w) * 0.01}% ${50 - (_mouseY - _h) * 0.01}%`;
-        let _depth2 = `${50 - (_mouseX - _w) * 0.02}% ${50 - (_mouseY - _h) * 0.02}%`;
-        let _depth3 = `${50 - (_mouseX - _w) * 0.06}% ${50 - (_mouseY - _h) * 0.06}%`;
-        let x = `${_depth3}, ${_depth2}, ${_depth1}`;
-        console.log(x);
-        elem.style.backgroundPosition = x;
+      let _w = window.innerWidth / 2;
+      let _h = window.innerHeight / 2;
+      let _mouseX = e.clientX;
+      let _mouseY = e.clientY;
+      let _depth1 = `${50 - (_mouseX - _w) * 0.01}% ${50 - (_mouseY - _h) * 0.01}%`;
+      let _depth2 = `${50 - (_mouseX - _w) * 0.02}% ${50 - (_mouseY - _h) * 0.02}%`;
+      let _depth3 = `${50 - (_mouseX - _w) * 0.06}% ${50 - (_mouseY - _h) * 0.06}%`;
+      let x = `${_depth3}, ${_depth2}, ${_depth1}`;
+      console.log(x);
+      elem.style.backgroundPosition = x;
     }
-})();
+  })();
 </script>
 
 </html>
