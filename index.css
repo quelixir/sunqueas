@@ -364,6 +364,12 @@ body:not(.user-is-tabbing) a:focus {
   font-size: var(--font-size-normal);
 }
 
+@media only screen and (max-width: 950px) {
+  .header {
+    background-size: cover !important;
+  }
+}
+
 .header__text {
   position: absolute;
   top: 50%;
