@@ -367,7 +367,7 @@ body:not(.user-is-tabbing) a:focus {
   font-size: var(--font-size-normal);
 }
 
-.us-header {
+.header-schlobohm_us {
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)),
     url("./images/forthcoming/us/us_liner.jpg");
   height: 100vh;
