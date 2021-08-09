@@ -377,6 +377,16 @@ body:not(.user-is-tabbing) a:focus {
   font-size: var(--font-size-normal);
 }
 
+.header-jensen {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)),
+    url("./images/jensen/jensen_bg_wc.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-size: var(--font-size-normal);
+}
+
 .header__text {
   position: absolute;
   top: 50%;
