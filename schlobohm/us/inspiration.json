@@ -1,0 +1,2499 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/4v08SlNOIhETfbgqvz9FIN/tracks?offset=0&limit=100&market=AU",
+  "items": [
+    {
+      "added_at": "2021-07-24T00:52:04Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+              "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+              "name": "Frank Sinatra",
+              "type": "artist",
+              "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+          },
+          "href": "https://api.spotify.com/v1/albums/7gmak9ZGm10y4PtZa9SBQn",
+          "id": "7gmak9ZGm10y4PtZa9SBQn",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b19cb81319fbfd9ed54baeae",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b19cb81319fbfd9ed54baeae",
+              "width": 64
+            }
+          ],
+          "name": "Ultimate Sinatra",
+          "release_date": "2015-04-21",
+          "release_date_precision": "day",
+          "total_tracks": 26,
+          "type": "album",
+          "uri": "spotify:album:7gmak9ZGm10y4PtZa9SBQn"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra",
+            "type": "artist",
+            "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264373,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCA29800159"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qDTsxSnBxNwh6CdPWvkaz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qDTsxSnBxNwh6CdPWvkaz",
+        "id": "1qDTsxSnBxNwh6CdPWvkaz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "One For My Baby (And One More For The Road) - Remastered",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/8e6436f83445b943428714af807347eb774019d7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1qDTsxSnBxNwh6CdPWvkaz"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:53:29Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+              "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+              "name": "Frank Sinatra",
+              "type": "artist",
+              "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+          },
+          "href": "https://api.spotify.com/v1/albums/3GmwKB1tgPZgXeRJZSm9WX",
+          "id": "3GmwKB1tgPZgXeRJZSm9WX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d4f8a582c0c3a3d67f395c6d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d4f8a582c0c3a3d67f395c6d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d4f8a582c0c3a3d67f395c6d",
+              "width": 64
+            }
+          ],
+          "name": "In The Wee Small Hours",
+          "release_date": "1955",
+          "release_date_precision": "year",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3GmwKB1tgPZgXeRJZSm9WX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra",
+            "type": "artist",
+            "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180933,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCA29800105"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Hsc0sIaxOxXBZbT3ms2oj",
+        "id": "0Hsc0sIaxOxXBZbT3ms2oj",
+        "is_local": false,
+        "is_playable": true,
+        "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/5b9dfdb312948dceba49f2f24a59a401fd6762d8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Hsc0sIaxOxXBZbT3ms2oj"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:52:17Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+          },
+          "href": "https://api.spotify.com/v1/albums/7b55VfUk2Vpuqnac9NDREc",
+          "id": "7b55VfUk2Vpuqnac9NDREc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbc2ac628f52cd6127e20bfa",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbc2ac628f52cd6127e20bfa",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bbc2ac628f52cd6127e20bfa",
+              "width": 64
+            }
+          ],
+          "name": "ランプ幻想",
+          "release_date": "2008-12-03",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:7b55VfUk2Vpuqnac9NDREc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+            "id": "0rFHElzeddB9ymDjgpBENX",
+            "name": "Lamp",
+            "type": "artist",
+            "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173880,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPG100800127"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vH0VkHWjdFkh0R2hhBh6n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1vH0VkHWjdFkh0R2hhBh6n",
+        "id": "1vH0VkHWjdFkh0R2hhBh6n",
+        "is_local": false,
+        "is_playable": true,
+        "name": "密やかに",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/72eb2d173863d6a898ca47e5cc86b4d2b2cf240c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1vH0VkHWjdFkh0R2hhBh6n"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:52:27Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT"
+          },
+          "href": "https://api.spotify.com/v1/albums/1lzCotlCIrD53CTs7rUdrT",
+          "id": "1lzCotlCIrD53CTs7rUdrT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27342a342be7909fcec4ecf5157",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0242a342be7909fcec4ecf5157",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485142a342be7909fcec4ecf5157",
+              "width": 64
+            }
+          ],
+          "name": "東京ユウトピア通信",
+          "release_date": "2011-02-09",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:1lzCotlCIrD53CTs7rUdrT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+            "id": "0rFHElzeddB9ymDjgpBENX",
+            "name": "Lamp",
+            "type": "artist",
+            "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 429306,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPS801190179"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cS7aD4QQcM8EUXnMkEPil"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cS7aD4QQcM8EUXnMkEPil",
+        "id": "5cS7aD4QQcM8EUXnMkEPil",
+        "is_local": false,
+        "is_playable": true,
+        "name": "冷ややかな情景",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/aae30625d424d02181a119f05bbfd86b887ce9ed?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5cS7aD4QQcM8EUXnMkEPil"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:52:54Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4zWi5DWyMAd4uEBJm4mC6J"
+          },
+          "href": "https://api.spotify.com/v1/albums/4zWi5DWyMAd4uEBJm4mC6J",
+          "id": "4zWi5DWyMAd4uEBJm4mC6J",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27315b27288e5648ecdd34f498e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0215b27288e5648ecdd34f498e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485115b27288e5648ecdd34f498e",
+              "width": 64
+            }
+          ],
+          "name": "The Poetry Of August",
+          "release_date": "2010-08-04",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:4zWi5DWyMAd4uEBJm4mC6J"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+            "id": "0rFHElzeddB9ymDjgpBENX",
+            "name": "Lamp",
+            "type": "artist",
+            "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 323453,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPS801092798"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OzlFWff43Hp7ME2OPE2zW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3OzlFWff43Hp7ME2OPE2zW",
+        "id": "3OzlFWff43Hp7ME2OPE2zW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Had A Summer Dream",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/c0127f6bb7132053bdd61fbb248f833f72381380?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3OzlFWff43Hp7ME2OPE2zW"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:52:54Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4zWi5DWyMAd4uEBJm4mC6J"
+          },
+          "href": "https://api.spotify.com/v1/albums/4zWi5DWyMAd4uEBJm4mC6J",
+          "id": "4zWi5DWyMAd4uEBJm4mC6J",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27315b27288e5648ecdd34f498e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0215b27288e5648ecdd34f498e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485115b27288e5648ecdd34f498e",
+              "width": 64
+            }
+          ],
+          "name": "The Poetry Of August",
+          "release_date": "2010-08-04",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:4zWi5DWyMAd4uEBJm4mC6J"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+            "id": "0rFHElzeddB9ymDjgpBENX",
+            "name": "Lamp",
+            "type": "artist",
+            "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 361906,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPS801092800"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jrN2KxD5jFSpmktxAQ6KD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jrN2KxD5jFSpmktxAQ6KD",
+        "id": "6jrN2KxD5jFSpmktxAQ6KD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love In The Afternoon",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/5d9143aa962a17de180918bd90919fc43de79b5b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6jrN2KxD5jFSpmktxAQ6KD"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:52:54Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4zWi5DWyMAd4uEBJm4mC6J"
+          },
+          "href": "https://api.spotify.com/v1/albums/4zWi5DWyMAd4uEBJm4mC6J",
+          "id": "4zWi5DWyMAd4uEBJm4mC6J",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27315b27288e5648ecdd34f498e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0215b27288e5648ecdd34f498e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485115b27288e5648ecdd34f498e",
+              "width": 64
+            }
+          ],
+          "name": "The Poetry Of August",
+          "release_date": "2010-08-04",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:4zWi5DWyMAd4uEBJm4mC6J"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+            "id": "0rFHElzeddB9ymDjgpBENX",
+            "name": "Lamp",
+            "type": "artist",
+            "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 367760,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPS801092801"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38mF9ahDeZLbI1CTxbSo3V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/38mF9ahDeZLbI1CTxbSo3V",
+        "id": "38mF9ahDeZLbI1CTxbSo3V",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Poetry Of August",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/b3eeab554ce538b3eeff89d75143967c761bd770?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:38mF9ahDeZLbI1CTxbSo3V"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:53:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+              },
+              "href": "https://api.spotify.com/v1/artists/0S1SjYebdSaiMpI8xSW2Wb",
+              "id": "0S1SjYebdSaiMpI8xSW2Wb",
+              "name": "Donald Fagen",
+              "type": "artist",
+              "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+          },
+          "href": "https://api.spotify.com/v1/albums/5cOS6szqlcoqmiSoVTqqe8",
+          "id": "5cOS6szqlcoqmiSoVTqqe8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029c3be4e1c786475f9489529f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519c3be4e1c786475f9489529f",
+              "width": 64
+            }
+          ],
+          "name": "The Nightfly",
+          "release_date": "1982-10-29",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:5cOS6szqlcoqmiSoVTqqe8"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0S1SjYebdSaiMpI8xSW2Wb",
+            "id": "0S1SjYebdSaiMpI8xSW2Wb",
+            "name": "Donald Fagen",
+            "type": "artist",
+            "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229733,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB19901664"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fW59TD8pQRSobXp3BslSd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fW59TD8pQRSobXp3BslSd",
+        "id": "7fW59TD8pQRSobXp3BslSd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Maxine",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/c0315dfb38f361ef3416731053512fe42d2f139d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7fW59TD8pQRSobXp3BslSd"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:53:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+              },
+              "href": "https://api.spotify.com/v1/artists/0S1SjYebdSaiMpI8xSW2Wb",
+              "id": "0S1SjYebdSaiMpI8xSW2Wb",
+              "name": "Donald Fagen",
+              "type": "artist",
+              "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+          },
+          "href": "https://api.spotify.com/v1/albums/5cOS6szqlcoqmiSoVTqqe8",
+          "id": "5cOS6szqlcoqmiSoVTqqe8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029c3be4e1c786475f9489529f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519c3be4e1c786475f9489529f",
+              "width": 64
+            }
+          ],
+          "name": "The Nightfly",
+          "release_date": "1982-10-29",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:5cOS6szqlcoqmiSoVTqqe8"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0S1SjYebdSaiMpI8xSW2Wb",
+            "id": "0S1SjYebdSaiMpI8xSW2Wb",
+            "name": "Donald Fagen",
+            "type": "artist",
+            "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290306,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB19901667"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jAqtv3axuQ4lYz7v5h9MW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jAqtv3axuQ4lYz7v5h9MW",
+        "id": "3jAqtv3axuQ4lYz7v5h9MW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Goodbye Look",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/d9ba470ac21f487758b92ab84d249f4c9811c2d7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3jAqtv3axuQ4lYz7v5h9MW"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:00Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4yVaTn71IU28NA0Et4bRED"
+          },
+          "href": "https://api.spotify.com/v1/albums/4yVaTn71IU28NA0Et4bRED",
+          "id": "4yVaTn71IU28NA0Et4bRED",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736d934974896ae0a6bfd6f678",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026d934974896ae0a6bfd6f678",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516d934974896ae0a6bfd6f678",
+              "width": 64
+            }
+          ],
+          "name": "In My Room",
+          "release_date": "2016-07-01",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:4yVaTn71IU28NA0Et4bRED"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 412613,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US23A1500085"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00BTDWR6xCaGdst6cPKkpF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00BTDWR6xCaGdst6cPKkpF",
+        "id": "00BTDWR6xCaGdst6cPKkpF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hideaway",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/598e37cc525f2d0fefb380c8d678214949483782?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:00BTDWR6xCaGdst6cPKkpF"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:31Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+              },
+              "href": "https://api.spotify.com/v1/artists/7JYdpWAsiqzrmMB3qxkEbI",
+              "id": "7JYdpWAsiqzrmMB3qxkEbI",
+              "name": "Metropole Orkest",
+              "type": "artist",
+              "uri": "spotify:artist:7JYdpWAsiqzrmMB3qxkEbI"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+              },
+              "href": "https://api.spotify.com/v1/artists/5gGbAKDXhDoBXIJe8SuBvX",
+              "id": "5gGbAKDXhDoBXIJe8SuBvX",
+              "name": "Jules Buckley",
+              "type": "artist",
+              "uri": "spotify:artist:5gGbAKDXhDoBXIJe8SuBvX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK"
+          },
+          "href": "https://api.spotify.com/v1/albums/47bMDS4CMLbqcIVjEMWUjK",
+          "id": "47bMDS4CMLbqcIVjEMWUjK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02743022e9c8fb580e3dabc397",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851743022e9c8fb580e3dabc397",
+              "width": 64
+            }
+          ],
+          "name": "Djesse Vol. 1",
+          "release_date": "2018-12-07",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:47bMDS4CMLbqcIVjEMWUjK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+            },
+            "href": "https://api.spotify.com/v1/artists/7JYdpWAsiqzrmMB3qxkEbI",
+            "id": "7JYdpWAsiqzrmMB3qxkEbI",
+            "name": "Metropole Orkest",
+            "type": "artist",
+            "uri": "spotify:artist:7JYdpWAsiqzrmMB3qxkEbI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gGbAKDXhDoBXIJe8SuBvX",
+            "id": "5gGbAKDXhDoBXIJe8SuBvX",
+            "name": "Jules Buckley",
+            "type": "artist",
+            "uri": "spotify:artist:5gGbAKDXhDoBXIJe8SuBvX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5XIFwcSH0tPFy0BcETPvKa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5XIFwcSH0tPFy0BcETPvKa",
+            "id": "5XIFwcSH0tPFy0BcETPvKa",
+            "name": "Suzie Collier",
+            "type": "artist",
+            "uri": "spotify:artist:5XIFwcSH0tPFy0BcETPvKa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 563999,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71807064"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ivwnHxm9O76ruklFPWCpp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ivwnHxm9O76ruklFPWCpp",
+        "id": "0ivwnHxm9O76ruklFPWCpp",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Once You (feat. Suzie Collier)",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/4892a308776d32056271cee6e7b87dd7ca7b8a9c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0ivwnHxm9O76ruklFPWCpp"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:31Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+              },
+              "href": "https://api.spotify.com/v1/artists/7JYdpWAsiqzrmMB3qxkEbI",
+              "id": "7JYdpWAsiqzrmMB3qxkEbI",
+              "name": "Metropole Orkest",
+              "type": "artist",
+              "uri": "spotify:artist:7JYdpWAsiqzrmMB3qxkEbI"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+              },
+              "href": "https://api.spotify.com/v1/artists/5gGbAKDXhDoBXIJe8SuBvX",
+              "id": "5gGbAKDXhDoBXIJe8SuBvX",
+              "name": "Jules Buckley",
+              "type": "artist",
+              "uri": "spotify:artist:5gGbAKDXhDoBXIJe8SuBvX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK"
+          },
+          "href": "https://api.spotify.com/v1/albums/47bMDS4CMLbqcIVjEMWUjK",
+          "id": "47bMDS4CMLbqcIVjEMWUjK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02743022e9c8fb580e3dabc397",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851743022e9c8fb580e3dabc397",
+              "width": 64
+            }
+          ],
+          "name": "Djesse Vol. 1",
+          "release_date": "2018-12-07",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:47bMDS4CMLbqcIVjEMWUjK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+            },
+            "href": "https://api.spotify.com/v1/artists/7JYdpWAsiqzrmMB3qxkEbI",
+            "id": "7JYdpWAsiqzrmMB3qxkEbI",
+            "name": "Metropole Orkest",
+            "type": "artist",
+            "uri": "spotify:artist:7JYdpWAsiqzrmMB3qxkEbI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gGbAKDXhDoBXIJe8SuBvX",
+            "id": "5gGbAKDXhDoBXIJe8SuBvX",
+            "name": "Jules Buckley",
+            "type": "artist",
+            "uri": "spotify:artist:5gGbAKDXhDoBXIJe8SuBvX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+            },
+            "href": "https://api.spotify.com/v1/artists/31zQEL3ARiYe63jn3jtM18",
+            "id": "31zQEL3ARiYe63jn3jtM18",
+            "name": "Take 6",
+            "type": "artist",
+            "uri": "spotify:artist:31zQEL3ARiYe63jn3jtM18"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 439000,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71807057"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TN4FrJvMdYrLDF2Lz7ArI",
+        "id": "6TN4FrJvMdYrLDF2Lz7ArI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "All Night Long (feat. Take 6)",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/c91bb869c1bee7ec5a9891cd50a396512fd7896a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6TN4FrJvMdYrLDF2Lz7ArI"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy"
+          },
+          "href": "https://api.spotify.com/v1/albums/3zNi5dCpkbm4zv7h1vGOMy",
+          "id": "3zNi5dCpkbm4zv7h1vGOMy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0254de35ac4fc5d8ed1ec1d956",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485154de35ac4fc5d8ed1ec1d956",
+              "width": 64
+            }
+          ],
+          "name": "Djesse Vol. 2",
+          "release_date": "2019-07-19",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3zNi5dCpkbm4zv7h1vGOMy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 496880,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71902312"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IRRqn75jaZHp7zMT1NGbZ",
+        "id": "1IRRqn75jaZHp7zMT1NGbZ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Moon River",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/e3a861f135a3e2da355c4639accf87504945c89a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1IRRqn75jaZHp7zMT1NGbZ"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy"
+          },
+          "href": "https://api.spotify.com/v1/albums/3zNi5dCpkbm4zv7h1vGOMy",
+          "id": "3zNi5dCpkbm4zv7h1vGOMy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0254de35ac4fc5d8ed1ec1d956",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485154de35ac4fc5d8ed1ec1d956",
+              "width": 64
+            }
+          ],
+          "name": "Djesse Vol. 2",
+          "release_date": "2019-07-19",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3zNi5dCpkbm4zv7h1vGOMy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+            },
+            "href": "https://api.spotify.com/v1/artists/21TinSsF5ytwsfdyz5VSVS",
+            "id": "21TinSsF5ytwsfdyz5VSVS",
+            "name": "dodie",
+            "type": "artist",
+            "uri": "spotify:artist:21TinSsF5ytwsfdyz5VSVS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238360,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71901393"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fu5r69xQg8OQCGsK2S5Il"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fu5r69xQg8OQCGsK2S5Il",
+        "id": "0fu5r69xQg8OQCGsK2S5Il",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Here Comes The Sun (feat. dodie)",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/02eee73298c3ba822fbb0278f8004754b126c277?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0fu5r69xQg8OQCGsK2S5Il"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:54:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+              "id": "0QWrMNukfcVOmgEU0FEDyD",
+              "name": "Jacob Collier",
+              "type": "artist",
+              "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy"
+          },
+          "href": "https://api.spotify.com/v1/albums/3zNi5dCpkbm4zv7h1vGOMy",
+          "id": "3zNi5dCpkbm4zv7h1vGOMy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0254de35ac4fc5d8ed1ec1d956",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485154de35ac4fc5d8ed1ec1d956",
+              "width": 64
+            }
+          ],
+          "name": "Djesse Vol. 2",
+          "release_date": "2019-07-19",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3zNi5dCpkbm4zv7h1vGOMy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+            "id": "0QWrMNukfcVOmgEU0FEDyD",
+            "name": "Jacob Collier",
+            "type": "artist",
+            "uri": "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 369426,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71903195"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2K2EtjQhdYijLLBNsFyFRO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2K2EtjQhdYijLLBNsFyFRO",
+        "id": "2K2EtjQhdYijLLBNsFyFRO",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Time To Rest Your Weary Head",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/cda16cf10b91f0895840c44a724ebde7e456b65c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2K2EtjQhdYijLLBNsFyFRO"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:55:14Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
+              },
+              "href": "https://api.spotify.com/v1/artists/5x2Ufw4gSPVw4TNcGCpFT1",
+              "id": "5x2Ufw4gSPVw4TNcGCpFT1",
+              "name": "Moritz Moszkowski",
+              "type": "artist",
+              "uri": "spotify:artist:5x2Ufw4gSPVw4TNcGCpFT1"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/30BkEbRxeOwH9p5OwBivbz"
+          },
+          "href": "https://api.spotify.com/v1/albums/30BkEbRxeOwH9p5OwBivbz",
+          "id": "30BkEbRxeOwH9p5OwBivbz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ee6a32b48d930c13fd241bc4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ee6a32b48d930c13fd241bc4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ee6a32b48d930c13fd241bc4",
+              "width": 64
+            }
+          ],
+          "name": "Moszkowski: Piano Concerto in E Major / From Foreign Lands",
+          "release_date": "1998-07-08",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:30BkEbRxeOwH9p5OwBivbz"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5x2Ufw4gSPVw4TNcGCpFT1",
+            "id": "5x2Ufw4gSPVw4TNcGCpFT1",
+            "name": "Moritz Moszkowski",
+            "type": "artist",
+            "uri": "spotify:artist:5x2Ufw4gSPVw4TNcGCpFT1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7tTCdjIEm4DHFxgquKT18a"
+            },
+            "href": "https://api.spotify.com/v1/artists/7tTCdjIEm4DHFxgquKT18a",
+            "id": "7tTCdjIEm4DHFxgquKT18a",
+            "name": "Markus Pawlik",
+            "type": "artist",
+            "uri": "spotify:artist:7tTCdjIEm4DHFxgquKT18a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+            },
+            "href": "https://api.spotify.com/v1/artists/62QURushyB5wug2XPwajwK",
+            "id": "62QURushyB5wug2XPwajwK",
+            "name": "Polish National Radio Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:62QURushyB5wug2XPwajwK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OJaTm0rPZVyMA5k5s8vbh",
+            "id": "2OJaTm0rPZVyMA5k5s8vbh",
+            "name": "Antoni Wit",
+            "type": "artist",
+            "uri": "spotify:artist:2OJaTm0rPZVyMA5k5s8vbh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 775426,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "HKI199740701"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gYwy7FvViCL0XB8B4lLvx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gYwy7FvViCL0XB8B4lLvx",
+        "id": "4gYwy7FvViCL0XB8B4lLvx",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Piano Concerto in E Major, Op. 59: I. Moderato",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/5dce684c18d93c43501d7387a256c3d356ba3e8c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4gYwy7FvViCL0XB8B4lLvx"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:55:14Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+              "id": "0Kekt6CKSo0m5mivKcoH51",
+              "name": "Sergei Rachmaninoff",
+              "type": "artist",
+              "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+              },
+              "href": "https://api.spotify.com/v1/artists/43wuPaPcZVMJQWLRaPR4Yz",
+              "id": "43wuPaPcZVMJQWLRaPR4Yz",
+              "name": "Krystian Zimerman",
+              "type": "artist",
+              "uri": "spotify:artist:43wuPaPcZVMJQWLRaPR4Yz"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+              },
+              "href": "https://api.spotify.com/v1/artists/0K23lQ2hSQAlxSEeZ05bjI",
+              "id": "0K23lQ2hSQAlxSEeZ05bjI",
+              "name": "Boston Symphony Orchestra",
+              "type": "artist",
+              "uri": "spotify:artist:0K23lQ2hSQAlxSEeZ05bjI"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+              },
+              "href": "https://api.spotify.com/v1/artists/0atCvjK2GL6ezQFGOQOYQo",
+              "id": "0atCvjK2GL6ezQFGOQOYQo",
+              "name": "Seiji Ozawa",
+              "type": "artist",
+              "uri": "spotify:artist:0atCvjK2GL6ezQFGOQOYQo"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1KVlcpGfBaYoRTYKz8X5qY"
+          },
+          "href": "https://api.spotify.com/v1/albums/1KVlcpGfBaYoRTYKz8X5qY",
+          "id": "1KVlcpGfBaYoRTYKz8X5qY",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c15c91f419491a577adbb8dd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c15c91f419491a577adbb8dd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c15c91f419491a577adbb8dd",
+              "width": 64
+            }
+          ],
+          "name": "Rachmaninov: Piano Concertos Nos. 1 & 2",
+          "release_date": "2003-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:1KVlcpGfBaYoRTYKz8X5qY"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+            "id": "0Kekt6CKSo0m5mivKcoH51",
+            "name": "Sergei Rachmaninoff",
+            "type": "artist",
+            "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+            },
+            "href": "https://api.spotify.com/v1/artists/43wuPaPcZVMJQWLRaPR4Yz",
+            "id": "43wuPaPcZVMJQWLRaPR4Yz",
+            "name": "Krystian Zimerman",
+            "type": "artist",
+            "uri": "spotify:artist:43wuPaPcZVMJQWLRaPR4Yz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+            },
+            "href": "https://api.spotify.com/v1/artists/0K23lQ2hSQAlxSEeZ05bjI",
+            "id": "0K23lQ2hSQAlxSEeZ05bjI",
+            "name": "Boston Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0K23lQ2hSQAlxSEeZ05bjI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0atCvjK2GL6ezQFGOQOYQo",
+            "id": "0atCvjK2GL6ezQFGOQOYQo",
+            "name": "Seiji Ozawa",
+            "type": "artist",
+            "uri": "spotify:artist:0atCvjK2GL6ezQFGOQOYQo"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 735000,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "DEN960001502"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CdoP1lO0Mz77uipQKbgMg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CdoP1lO0Mz77uipQKbgMg",
+        "id": "3CdoP1lO0Mz77uipQKbgMg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Piano Concerto No.2 In C Minor, Op.18: 2. Adagio sostenuto",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/5a6474a4e72e26fcb2789e152c4d4572789cfc47?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3CdoP1lO0Mz77uipQKbgMg"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:55:24Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+              "id": "1dfeR4HaWDbWqFHLkxsg1d",
+              "name": "Queen",
+              "type": "artist",
+              "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+          },
+          "href": "https://api.spotify.com/v1/albums/7tB40pGzj6Tg0HePj2jWZt",
+          "id": "7tB40pGzj6Tg0HePj2jWZt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021f7077ae1018b5fbab08dfa8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511f7077ae1018b5fbab08dfa8",
+              "width": 64
+            }
+          ],
+          "name": "News Of The World (2011 Remaster)",
+          "release_date": "1977-10-28",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:7tB40pGzj6Tg0HePj2jWZt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 274226,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71103460"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nUCaKwNqO5whVAhEX1A1R",
+        "id": "0nUCaKwNqO5whVAhEX1A1R",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Spread Your Wings - Remastered 2011",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/fb6329752e30bd64707e513710240e1cabaa5d3e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0nUCaKwNqO5whVAhEX1A1R"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:55:50Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT"
+              },
+              "href": "https://api.spotify.com/v1/artists/1bfk97GO0DYNUjbNNJ0XIT",
+              "id": "1bfk97GO0DYNUjbNNJ0XIT",
+              "name": "Joshua Lee Turner",
+              "type": "artist",
+              "uri": "spotify:artist:1bfk97GO0DYNUjbNNJ0XIT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5a44WaQgnPi5f66eYfxi1r"
+          },
+          "href": "https://api.spotify.com/v1/albums/5a44WaQgnPi5f66eYfxi1r",
+          "id": "5a44WaQgnPi5f66eYfxi1r",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273961e102c38dcaabcb98f8617",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02961e102c38dcaabcb98f8617",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851961e102c38dcaabcb98f8617",
+              "width": 64
+            }
+          ],
+          "name": "As Good a Place as Any",
+          "release_date": "2019-04-05",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5a44WaQgnPi5f66eYfxi1r"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bfk97GO0DYNUjbNNJ0XIT",
+            "id": "1bfk97GO0DYNUjbNNJ0XIT",
+            "name": "Joshua Lee Turner",
+            "type": "artist",
+            "uri": "spotify:artist:1bfk97GO0DYNUjbNNJ0XIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227400,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCAEB1980186"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EN2226zD5377BMhCrIFsd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EN2226zD5377BMhCrIFsd",
+        "id": "1EN2226zD5377BMhCrIFsd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Rockaway",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/49021f877708626299b1a71cfde5ea7a5dc65d33?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1EN2226zD5377BMhCrIFsd"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:55:50Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT"
+              },
+              "href": "https://api.spotify.com/v1/artists/1bfk97GO0DYNUjbNNJ0XIT",
+              "id": "1bfk97GO0DYNUjbNNJ0XIT",
+              "name": "Joshua Lee Turner",
+              "type": "artist",
+              "uri": "spotify:artist:1bfk97GO0DYNUjbNNJ0XIT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5a44WaQgnPi5f66eYfxi1r"
+          },
+          "href": "https://api.spotify.com/v1/albums/5a44WaQgnPi5f66eYfxi1r",
+          "id": "5a44WaQgnPi5f66eYfxi1r",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273961e102c38dcaabcb98f8617",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02961e102c38dcaabcb98f8617",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851961e102c38dcaabcb98f8617",
+              "width": 64
+            }
+          ],
+          "name": "As Good a Place as Any",
+          "release_date": "2019-04-05",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5a44WaQgnPi5f66eYfxi1r"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bfk97GO0DYNUjbNNJ0XIT",
+            "id": "1bfk97GO0DYNUjbNNJ0XIT",
+            "name": "Joshua Lee Turner",
+            "type": "artist",
+            "uri": "spotify:artist:1bfk97GO0DYNUjbNNJ0XIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198080,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCAEB1980191"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/365M6a6GH9lSOSElacozjz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/365M6a6GH9lSOSElacozjz",
+        "id": "365M6a6GH9lSOSElacozjz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Trivia Night",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/866aa7a56ca786e53580d99890e385adf3fef1f8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:365M6a6GH9lSOSElacozjz"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:56:26Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jgPkn6LuUazBoBk6vvjh5",
+              "id": "2jgPkn6LuUazBoBk6vvjh5",
+              "name": "The Zombies",
+              "type": "artist",
+              "uri": "spotify:artist:2jgPkn6LuUazBoBk6vvjh5"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4"
+          },
+          "href": "https://api.spotify.com/v1/albums/1vWVHhniWzqyNC0UzDDGs4",
+          "id": "1vWVHhniWzqyNC0UzDDGs4",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b7fbb999ab997e52cecd01f2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b7fbb999ab997e52cecd01f2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b7fbb999ab997e52cecd01f2",
+              "width": 64
+            }
+          ],
+          "name": "Begin Here",
+          "release_date": "1965-03-01",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:1vWVHhniWzqyNC0UzDDGs4"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jgPkn6LuUazBoBk6vvjh5",
+            "id": "2jgPkn6LuUazBoBk6vvjh5",
+            "name": "The Zombies",
+            "type": "artist",
+            "uri": "spotify:artist:2jgPkn6LuUazBoBk6vvjh5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 108573,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBCBS6432263"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iSxljzM8Xw9EEIGBRW1CD",
+        "id": "2iSxljzM8Xw9EEIGBRW1CD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Way I Feel Inside",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ada4402121ccad4aa791ce54450705e41b61dd5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2iSxljzM8Xw9EEIGBRW1CD"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:57:56Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+              "id": "3VEG6gxFIMfl4Cdog26avS",
+              "name": "Bill Evans Trio",
+              "type": "artist",
+              "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/0MjlKhtsyax9HSWNkYaWM2",
+          "id": "0MjlKhtsyax9HSWNkYaWM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa2fcbd15b6724b4719469af",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa2fcbd15b6724b4719469af",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aa2fcbd15b6724b4719469af",
+              "width": 64
+            }
+          ],
+          "name": "Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)",
+          "release_date": "1961",
+          "release_date_precision": "year",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:0MjlKhtsyax9HSWNkYaWM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+            "id": "3VEG6gxFIMfl4Cdog26avS",
+            "name": "Bill Evans Trio",
+            "type": "artist",
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 297320,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USC4R1016848"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6yKkA8HzwWTZ5taIMaG4Nm",
+        "id": "6yKkA8HzwWTZ5taIMaG4Nm",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Foolish Heart",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/f9a28a67efe6187d5ac17f807156c437bde028cd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6yKkA8HzwWTZ5taIMaG4Nm"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:57:56Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+              "id": "3VEG6gxFIMfl4Cdog26avS",
+              "name": "Bill Evans Trio",
+              "type": "artist",
+              "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
+          },
+          "href": "https://api.spotify.com/v1/albums/6kaZAT1UBgjchdmNv9hUHj",
+          "id": "6kaZAT1UBgjchdmNv9hUHj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273172f210803d390d6d0dbf8e9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02172f210803d390d6d0dbf8e9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851172f210803d390d6d0dbf8e9",
+              "width": 64
+            }
+          ],
+          "name": "At The Village Vanguard",
+          "release_date": "1961",
+          "release_date_precision": "year",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:6kaZAT1UBgjchdmNv9hUHj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+            "id": "3VEG6gxFIMfl4Cdog26avS",
+            "name": "Bill Evans Trio",
+            "type": "artist",
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 409640,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USFI86100092"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EC51OfUhguCbNp5H5SdGm",
+        "id": "6EC51OfUhguCbNp5H5SdGm",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy"
+          },
+          "href": "https://api.spotify.com/v1/tracks/49H4LDNFE5BU7ZMIg8UsZy",
+          "id": "49H4LDNFE5BU7ZMIg8UsZy",
+          "type": "track",
+          "uri": "spotify:track:49H4LDNFE5BU7ZMIg8UsZy"
+        },
+        "name": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/2430f63288866f1adc34c93a4c98992136c62b9e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6EC51OfUhguCbNp5H5SdGm"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-07-24T00:57:56Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/nickyschlobs"
+        },
+        "href": "https://api.spotify.com/v1/users/nickyschlobs",
+        "id": "nickyschlobs",
+        "type": "user",
+        "uri": "spotify:user:nickyschlobs"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+              "id": "3VEG6gxFIMfl4Cdog26avS",
+              "name": "Bill Evans Trio",
+              "type": "artist",
+              "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/0MjlKhtsyax9HSWNkYaWM2",
+          "id": "0MjlKhtsyax9HSWNkYaWM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa2fcbd15b6724b4719469af",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa2fcbd15b6724b4719469af",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aa2fcbd15b6724b4719469af",
+              "width": 64
+            }
+          ],
+          "name": "Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)",
+          "release_date": "1961",
+          "release_date_precision": "year",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:0MjlKhtsyax9HSWNkYaWM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+            "id": "3VEG6gxFIMfl4Cdog26avS",
+            "name": "Bill Evans Trio",
+            "type": "artist",
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 431213,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USC4R1016851"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2u6gOYRHuN06LMQDHTwUrl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2u6gOYRHuN06LMQDHTwUrl",
+        "id": "2u6gOYRHuN06LMQDHTwUrl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Romance (take 1)",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/c50de78811c4b8e7e1a9e26737d97fbb4e923e2d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2u6gOYRHuN06LMQDHTwUrl"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 100,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 24
+}
